@@ -1,0 +1,291 @@
+{
+"name": "Doofus",
+   "heads": [
+      {
+         "name": "head1",
+         "eyes": "blue",
+         "nose": "stubby",
+         "mouth": "oval"
+      },
+      {
+         "name": "head2",
+         "eyes": "red",
+         "nose": "long",
+         "mouth": "circle"
+      },
+      {
+         "name": "head3",
+         "eyes": "green",
+         "nose": "wide",
+         "mouth": "big"
+      }
+   ],
+   "body": {
+	  "bodytype" : "fmslfsls",
+      "arms": [
+         {
+            "position": "northarm",
+            "tattoo": "donald",
+            "fingers": [
+               {
+                  "name": "finger_northarm_0"
+               },
+               {
+                  "name": "finger_northarm_1"
+               },
+               {
+                  "name": "finger_northarm_2"
+               }
+            ]
+         },
+         {
+            "position": "southarm",
+            "tattoo": "bambi",
+            "fingers": [
+               {
+                  "name": "finger_southarm_0"
+               },
+               {
+                  "name": "finger_southarm_1"
+               },
+               {
+                  "name": "finger_southarm_2"
+               },
+               {
+                  "name": "finger_southarm_3"
+               },
+               {
+                  "name": "finger_southarm_4"
+               }
+            ]
+         },
+         {
+            "position": "eastarm",
+            "tattoo": "beast",
+            "fingers": [
+               {
+                  "name": "finger_eastarm_0"
+               },
+               {
+                  "name": "finger_eastarm_1"
+               }
+            ]
+         },
+         {
+            "position": "westarm",
+            "tattoo": "mickey",
+            "fingers": [
+               {
+                  "name": "finger_westarm_0"
+               },
+               {
+                  "name": "finger_westarm_1"
+               },
+               {
+                  "name": "finger_westarm_2"
+               },
+               {
+                  "name": "finger_westarm_3"
+               },
+               {
+                  "name": "finger_westarm_4"
+               },
+               {
+                  "name": "finger_westarm_5"
+               },
+               {
+                  "name": "finger_westarm_6"
+               }
+            ]
+         },
+         {
+            "position": "nwarm",
+            "tattoo": "minnie",
+            "fingers": [
+               {
+                  "name": "finger_nwarm_0"
+               },
+               {
+                  "name": "finger_nwarm_1"
+               },
+               {
+                  "name": "finger_nwarm_2"
+               },
+               {
+                  "name": "finger_nwarm_3"
+               },
+               {
+                  "name": "finger_nwarm_4"
+               },
+               {
+                  "name": "finger_nwarm_5"
+               },
+               {
+                  "name": "finger_nwarm_6"
+               },
+               {
+                  "name": "finger_nwarm_7"
+               },
+               {
+                  "name": "finger_nwarm_8"
+               },
+               {
+                  "name": "finger_nwarm_9"
+               }
+            ]
+         }
+      ],
+      "legs": [
+         {
+            "position": "northleg",
+            "length": "short",
+            "toes": [
+               {
+                  "name": "toe_northleg_0"
+               },
+               {
+                  "name": "toe_northleg_1"
+               },
+               {
+                  "name": "toe_northleg_2"
+               },
+               {
+                  "name": "toe_northleg_3"
+               },
+               {
+                  "name": "toe_northleg_4"
+               },
+               {
+                  "name": "toe_northleg_5"
+               },
+               {
+                  "name": "toe_northleg_6"
+               },
+               {
+                  "name": "toe_northleg_7"
+               },
+               {
+                  "name": "toe_northleg_8"
+               },
+               {
+                  "name": "toe_northleg_9"
+               },
+               {
+                  "name": "toe_northleg_10"
+               },
+               {
+                  "name": "toe_northleg_11"
+               }
+            ]
+         },
+         {
+            "position": "southleg",
+            "length": "long",
+            "toes": [
+               {
+                  "name": "toe_southleg_0"
+               },
+               {
+                  "name": "toe_southleg_1"
+               },
+               {
+                  "name": "toe_southleg_2"
+               },
+               {
+                  "name": "toe_southleg_3"
+               },
+               {
+                  "name": "toe_southleg_4"
+               },
+               {
+                  "name": "toe_southleg_5"
+               },
+               {
+                  "name": "toe_southleg_6"
+               },
+               {
+                  "name": "toe_southleg_7"
+               },
+               {
+                  "name": "toe_southleg_8"
+               },
+               {
+                  "name": "toe_southleg_9"
+               },
+               {
+                  "name": "toe_southleg_10"
+               },
+               {
+                  "name": "toe_southleg_11"
+               },
+               {
+                  "name": "toe_southleg_12"
+               },
+               {
+                  "name": "toe_southleg_13"
+               },
+               {
+                  "name": "toe_southleg_14"
+               }
+            ]
+         },
+         {
+            "position": "eastleg",
+            "length": "medium",
+            "toes": [
+               {
+                  "name": "toe_eastleg_0"
+               },
+               {
+                  "name": "toe_eastleg_1"
+               },
+               {
+                  "name": "toe_eastleg_2"
+               },
+               {
+                  "name": "toe_eastleg_3"
+               },
+               {
+                  "name": "toe_eastleg_4"
+               },
+               {
+                  "name": "toe_eastleg_5"
+               },
+               {
+                  "name": "toe_eastleg_6"
+               },
+               {
+                  "name": "toe_eastleg_7"
+               },
+               {
+                  "name": "toe_eastleg_8"
+               },
+               {
+                  "name": "toe_eastleg_9"
+               }
+            ]
+         },
+         {
+            "position": "westleg",
+            "length": "sorta-short",
+            "toes": [
+               {
+                  "name": "toe_westleg_0"
+               },
+               {
+                  "name": "toe_westleg_1"
+               },
+               {
+                  "name": "toe_westleg_2"
+               },
+               {
+                  "name": "toe_westleg_3"
+               },
+               {
+                  "name": "toe_westleg_4"
+               }
+            ]
+         }
+      ]
+   }
+}

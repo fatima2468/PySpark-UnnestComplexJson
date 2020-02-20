@@ -1,0 +1,1 @@
+This is an example to parse/unnest a complex uneven json to a spark dataframe.
